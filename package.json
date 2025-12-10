@@ -1,0 +1,7 @@
+文件名：package.json
+内容：
+{
+  "dependencies": {
+    "@waline/vercel": "^1.5.0"
+  }
+}
