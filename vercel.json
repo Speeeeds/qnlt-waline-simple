@@ -1,0 +1,7 @@
+文件名：vercel.json
+内容：
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ]
+}
