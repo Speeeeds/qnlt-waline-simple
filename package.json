@@ -2,6 +2,6 @@
   "name": "waline-server",
   "version": "1.0.0",
   "dependencies": {
-    "@waline/vercel": "^2.16.2"
+    "@waline/vercel": "^1.5.0"
   }
 }
